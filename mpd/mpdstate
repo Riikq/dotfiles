@@ -1,0 +1,174 @@
+sw_volume: 100
+audio_device_state:1:mpd pipewire output
+state: play
+current: 3
+time: 119.944
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:Queen Albums/[1973] - Queen/01 - Keep Yourself Alive.mp3
+1:Queen Albums/[1973] - Queen/02 - Doing All Right.mp3
+2:Queen Albums/[1973] - Queen/03 - Great King Rat.mp3
+3:Queen Albums/[1973] - Queen/04 - My Fairy King.mp3
+4:Queen Albums/[1973] - Queen/05 - Liar.mp3
+5:Queen Albums/[1973] - Queen/06 - The Night Comes Down.mp3
+6:Queen Albums/[1973] - Queen/07 - Modern Times Rock 'n' Roll.mp3
+7:Queen Albums/[1973] - Queen/08 - Son And Daughter.mp3
+8:Queen Albums/[1973] - Queen/09 - Jesus.mp3
+9:Queen Albums/[1973] - Queen/10 - Seven Seas Of Rhye... (Instrumental).mp3
+10:Queen Albums/[1974] - Queen II/01 - Procession.mp3
+11:Queen Albums/[1974] - Queen II/03 - White Queen (As It Began).mp3
+12:Queen Albums/[1974] - Queen II/04 - Some Day One Day.mp3
+13:Queen Albums/[1974] - Queen II/05 - The Loser In The End.mp3
+14:Queen Albums/[1974] - Queen II/06 - Ogre Battle.mp3
+15:Queen Albums/[1974] - Queen II/07 - The Fairy Feller's Master-Stroke.mp3
+16:Queen Albums/[1974] - Queen II/08 - Nevermore.mp3
+17:Queen Albums/[1974] - Queen II/09 - The March Of the Black Queen.mp3
+18:Queen Albums/[1974] - Queen II/10 - Funny How Love Is.mp3
+19:Queen Albums/[1974] - Queen II/11 - Seven Seas Of Rhye.mp3
+20:Queen Albums/[1974] - Sheer Heart Attack/01 - Brighton Rock.mp3
+21:Queen Albums/[1974] - Sheer Heart Attack/02 - Killer Queen.mp3
+22:Queen Albums/[1974] - Sheer Heart Attack/03 - Tenement Funster.mp3
+23:Queen Albums/[1974] - Sheer Heart Attack/04 - Flick Of The Wrist.mp3
+24:Queen Albums/[1974] - Sheer Heart Attack/05 - Lily Of The Valley.mp3
+25:Queen Albums/[1974] - Sheer Heart Attack/06 - Now I'm Here.mp3
+26:Queen Albums/[1974] - Sheer Heart Attack/07 - In the Lap Of The Gods.mp3
+27:Queen Albums/[1974] - Sheer Heart Attack/08 - Stone Cold Crazy.mp3
+28:Queen Albums/[1974] - Sheer Heart Attack/09 - Dear Friends.mp3
+29:Queen Albums/[1974] - Sheer Heart Attack/10 - Misfire.mp3
+30:Queen Albums/[1974] - Sheer Heart Attack/11 - Bring Back That Leroy Brown.mp3
+31:Queen Albums/[1974] - Sheer Heart Attack/12 - She Makes Me (Stormtrooper In Stilettoes).mp3
+32:Queen Albums/[1974] - Sheer Heart Attack/13 - In The Lap Of The Gods...Revisited.mp3
+33:Queen Albums/[1975] - A Night At The Opera/01 - Death On Two Legs (Dedicated To...).mp3
+34:Queen Albums/[1975] - A Night At The Opera/02 - Lazing On A Sunday Afternoon.mp3
+35:Queen Albums/[1975] - A Night At The Opera/03 - I'm In Love With My Car.mp3
+36:Queen Albums/[1975] - A Night At The Opera/04 - You're My Best Friend.mp3
+37:Queen Albums/[1975] - A Night At The Opera/05 - '39.mp3
+38:Queen Albums/[1975] - A Night At The Opera/06 - Sweet Lady.mp3
+39:Queen Albums/[1975] - A Night At The Opera/07 - Seaside Rendezvous.mp3
+40:Queen Albums/[1975] - A Night At The Opera/08 - The Prophet's Song.mp3
+41:Queen Albums/[1975] - A Night At The Opera/09 - Love Of My Life.mp3
+42:Queen Albums/[1975] - A Night At The Opera/10 - Good Company.mp3
+43:Queen Albums/[1975] - A Night At The Opera/11 - Bohemian Rhapsody.mp3
+44:Queen Albums/[1975] - A Night At The Opera/12 - God Save The Queen (Instrumental).mp3
+45:Queen Albums/[1976] - A Day At The Races/01 - Tie Your Mother Down.mp3
+46:Queen Albums/[1976] - A Day At The Races/02 - You Take My Breath Away.mp3
+47:Queen Albums/[1976] - A Day At The Races/03 - Long Away.mp3
+48:Queen Albums/[1976] - A Day At The Races/04 - The Millionaire Waltz.mp3
+49:Queen Albums/[1976] - A Day At The Races/05 - You And I.mp3
+50:Queen Albums/[1976] - A Day At The Races/06 - Somebody To Love.mp3
+51:Queen Albums/[1976] - A Day At The Races/07 - White Man.mp3
+52:Queen Albums/[1976] - A Day At The Races/08 - Good Old-Fashioned Lover Boy.mp3
+53:Queen Albums/[1976] - A Day At The Races/09 - Drowse.mp3
+54:Queen Albums/[1976] - A Day At The Races/10 - Teo Torriatte (Let Us Cling Together).mp3
+55:Queen Albums/[1977] - News Of The World/01 - We Will Rock You.mp3
+56:Queen Albums/[1977] - News Of The World/02 - We Are The Champions.mp3
+57:Queen Albums/[1977] - News Of The World/03 - Sheer Heart Attack.mp3
+58:Queen Albums/[1977] - News Of The World/04 - All Dead, All Dead.mp3
+59:Queen Albums/[1977] - News Of The World/05 - Spread Your Wings.mp3
+60:Queen Albums/[1977] - News Of The World/06 - Fight From The Inside.mp3
+61:Queen Albums/[1977] - News Of The World/07 - Get Down, Make Love.mp3
+62:Queen Albums/[1977] - News Of The World/08 - Sleeping On The Sidewalk.mp3
+63:Queen Albums/[1977] - News Of The World/09 - Who Needs You.mp3
+64:Queen Albums/[1977] - News Of The World/10 - It's Late.mp3
+65:Queen Albums/[1977] - News Of The World/11 - My Melancholy Blues.mp3
+66:Queen Albums/[1978] - Jazz/01 - Mustapha.mp3
+67:Queen Albums/[1978] - Jazz/02 - Fat Bottomed Girls.mp3
+68:Queen Albums/[1978] - Jazz/03 - Jealousy.mp3
+69:Queen Albums/[1978] - Jazz/04 - Bicycle Race.mp3
+70:Queen Albums/[1978] - Jazz/05 - If You Can't Beat Them.mp3
+71:Queen Albums/[1978] - Jazz/06 - Let Me Entertain You.mp3
+72:Queen Albums/[1978] - Jazz/07 - Dead On Time.mp3
+73:Queen Albums/[1978] - Jazz/08 - In Only Seven Days.mp3
+74:Queen Albums/[1978] - Jazz/09 - Dreamer's Ball.mp3
+75:Queen Albums/[1978] - Jazz/10 - Fun It.mp3
+76:Queen Albums/[1978] - Jazz/11 - Leaving Home Ain't Easy.mp3
+77:Queen Albums/[1978] - Jazz/12 - Don't Stop Me Now.mp3
+78:Queen Albums/[1978] - Jazz/13 - More Of That Jazz.mp3
+79:Queen Albums/[1980] - The Game/01 - Play The Game.mp3
+80:Queen Albums/[1980] - The Game/02 - Dragon Attack.mp3
+81:Queen Albums/[1980] - The Game/03 - Another One Bites The Dust.mp3
+82:Queen Albums/[1980] - The Game/04 - Need Your Loving Tonight.mp3
+83:Queen Albums/[1980] - The Game/05 - Crazy Little Thing Called Love.mp3
+84:Queen Albums/[1980] - The Game/06 - Rock It (Prime Jive).mp3
+85:Queen Albums/[1980] - The Game/07 - Don't Try Suicide.mp3
+86:Queen Albums/[1980] - The Game/08 - Sail Away Sweet Sister.mp3
+87:Queen Albums/[1980] - The Game/09 - Coming Soon.mp3
+88:Queen Albums/[1980] - The Game/10 - Save Me.mp3
+89:Queen Albums/[1982] - Hot Space/01 - Staying Power.mp3
+90:Queen Albums/[1982] - Hot Space/02 - Dancer.mp3
+91:Queen Albums/[1982] - Hot Space/03 - Back Chat.mp3
+92:Queen Albums/[1982] - Hot Space/04 - Body Language.mp3
+93:Queen Albums/[1982] - Hot Space/05 - Action This Day.mp3
+94:Queen Albums/[1982] - Hot Space/06 - Put Out The Fire.mp3
+95:Queen Albums/[1982] - Hot Space/07 - Life Is Real (Song For Lennon).mp3
+96:Queen Albums/[1982] - Hot Space/08 - Calling All Girls.mp3
+97:Queen Albums/[1982] - Hot Space/09 - Las Palabras De Amor (The Words Of Love).mp3
+98:Queen Albums/[1982] - Hot Space/10 - Cool Cat.mp3
+99:Queen Albums/[1982] - Hot Space/11 - Under Pressure.mp3
+100:Queen Albums/[1984] - The Works/01 - Radio Ga Ga.mp3
+101:Queen Albums/[1984] - The Works/02 - Tear It Up.mp3
+102:Queen Albums/[1984] - The Works/03 - It's A Hard Life.mp3
+103:Queen Albums/[1984] - The Works/04 - Man On The Prowl.mp3
+104:Queen Albums/[1984] - The Works/05 - Machines (Or 'Back To Humans').mp3
+105:Queen Albums/[1984] - The Works/06 - I Want To Break Free.mp3
+106:Queen Albums/[1984] - The Works/07 - Keep Passing The Open Windows.mp3
+107:Queen Albums/[1984] - The Works/08 - Hammer To Fall.mp3
+108:Queen Albums/[1984] - The Works/09 - Is This The World We Created....mp3
+109:Queen Albums/[1986] - A Kind Of Magic/01 - One Vision.mp3
+110:Queen Albums/[1986] - A Kind Of Magic/02 - A Kind Of Magic.mp3
+111:Queen Albums/[1986] - A Kind Of Magic/03 - One Year Of Love.mp3
+112:Queen Albums/[1986] - A Kind Of Magic/04 - Pain Is So Close To Pleasure.mp3
+113:Queen Albums/[1986] - A Kind Of Magic/05 - Friends Will Be Friends.mp3
+114:Queen Albums/[1986] - A Kind Of Magic/06 - Who Wants To Live Forever.mp3
+115:Queen Albums/[1986] - A Kind Of Magic/07 - Gimme The Prize (Kurgan's Theme).mp3
+116:Queen Albums/[1986] - A Kind Of Magic/08 - Don't Lose Your Head.mp3
+117:Queen Albums/[1986] - A Kind Of Magic/09 - Princes Of The Universe.mp3
+118:Queen Albums/[1986] - A Kind Of Magic/10 - A Kind Of 'A Kind Of Magic'.mp3
+119:Queen Albums/[1986] - A Kind Of Magic/11 - Friends Will Be Friends Will Be Friends....mp3
+120:Queen Albums/[1986] - A Kind Of Magic/12 - Forever.mp3
+121:Queen Albums/[1989] - The Miracle/01 - Party.mp3
+122:Queen Albums/[1989] - The Miracle/02 - Khashoggi's Ship.mp3
+123:Queen Albums/[1989] - The Miracle/03 - The Miracle.mp3
+124:Queen Albums/[1989] - The Miracle/04 - I Want It All.mp3
+125:Queen Albums/[1989] - The Miracle/05 - The Invisible Man.mp3
+126:Queen Albums/[1989] - The Miracle/06 - Breakthru.mp3
+127:Queen Albums/[1989] - The Miracle/07 - Rain Must Fall.mp3
+128:Queen Albums/[1989] - The Miracle/08 - Scandal.mp3
+129:Queen Albums/[1989] - The Miracle/09 - My Baby Does Me.mp3
+130:Queen Albums/[1989] - The Miracle/10 - Was It All Worth It.mp3
+131:Queen Albums/[1989] - The Miracle/11 - Hang On In There.mp3
+132:Queen Albums/[1989] - The Miracle/12 - Chinese Torture.mp3
+133:Queen Albums/[1989] - The Miracle/13 - The Invisible Man (12 Version).mp3
+134:Queen Albums/[1991] - Innuendo/01 - Innuendo.mp3
+135:Queen Albums/[1991] - Innuendo/02 - I'm Going Slighty Mad.mp3
+136:Queen Albums/[1991] - Innuendo/03 - Headlong.mp3
+137:Queen Albums/[1991] - Innuendo/04 - I Can't Live With You.mp3
+138:Queen Albums/[1991] - Innuendo/05 - Don't Try So Hard.mp3
+139:Queen Albums/[1991] - Innuendo/06 - Ride The Wild Wind.mp3
+140:Queen Albums/[1991] - Innuendo/07 - All God's People.mp3
+141:Queen Albums/[1991] - Innuendo/08 - These Are The Days Of Our Lives.mp3
+142:Queen Albums/[1991] - Innuendo/09 - Delilah.mp3
+143:Queen Albums/[1991] - Innuendo/10 - The Hitman.mp3
+144:Queen Albums/[1991] - Innuendo/11 - Bijou.mp3
+145:Queen Albums/[1991] - Innuendo/12 - The Show Must Go On.mp3
+146:Queen Albums/[1995] - Made In Heaven/01 - It's A Beautiful Day.mp3
+147:Queen Albums/[1995] - Made In Heaven/02 - Made In Heaven.mp3
+148:Queen Albums/[1995] - Made In Heaven/03 - Let Me Live.mp3
+149:Queen Albums/[1995] - Made In Heaven/04 - Mother Love.mp3
+150:Queen Albums/[1995] - Made In Heaven/05 - My Life Has Been Saved.mp3
+151:Queen Albums/[1995] - Made In Heaven/06 - I Was Born To Love You.mp3
+152:Queen Albums/[1995] - Made In Heaven/07 - Heaven For Everyone.mp3
+153:Queen Albums/[1995] - Made In Heaven/08 - Too Much Love Will Kill You.mp3
+154:Queen Albums/[1995] - Made In Heaven/09 - You Don't Fool Me.mp3
+155:Queen Albums/[1995] - Made In Heaven/10 - A Winter's Tale.mp3
+156:Queen Albums/[1995] - Made In Heaven/11 - It's A Beautiful Day (Reprise).mp3
+157:Queen Albums/[1995] - Made In Heaven/12 - Yeah.mp3
+158:Queen Albums/[1995] - Made In Heaven/13 - Untitled Hidden Track.mp3
+playlist_end
