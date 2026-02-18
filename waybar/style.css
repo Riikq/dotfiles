@@ -1,15 +1,17 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
     font-family: "FontAwesome", "JetBrainsMono Nerd Font", "JetBrainsMono";
-    font-size: 12px;
+    font-size: 13px;
     font-weight: bold;
+    color: #e6eaf2;
 }
 
 window#waybar {
-    background-color: #82949e;
-    color: #4a5353;
-    border: 2px solid #4a5353;
-    box-shadow: inset -2px 2px 0 0px #a1acae, inset 2px -2px 0px 0px #687677;
+  background: rgba(18, 20, 32, 0.92);
+  border-radius: 0px;
+  margin: 14px 24px;
+  padding: 0px 12px;
+  border: 1px solid rgba(160, 170, 255, 0.08);
 }
 
 #custom-firefox,
@@ -23,66 +25,61 @@ window#waybar {
 #workspaces,
 #pulseaudio,
 #mpd {
-background-color: #b3b5b2;
-margin-left: 4px;
-margin-right: 4px;
-margin-top: 2px;
-margin-bottom: 2px;
-padding-top: 8px;
-padding-bottom: 8px;
-border: 1px solid #4a5353;
-box-shadow: inset 2px -2px 0px 0px #cccac2, inset -2px 2px 0px 0px #e5dfd3;
+  background: rgba(255, 255, 255, 0.06);
+  padding: 0px 12px;
+  margin: 0 5px;
+  border-radius: 0px;
+  transition: all 0.18s ease;
+}
+
+#custom-firefox:hover,
+#custom-anki:hover,
+#custom-power:hover,
+#battery:hover,
+#cpu:hover,
+#memory:hover,
+#temperature:hover,
+#network:hover,
+#workspaces:hover,
+#pulseaudio:hover,
+#mpd:hover {
+  background: rgba(160, 170, 255, 0.18);
 }
 
 #workspaces {
-color: #e5dfd3;
+  background: transparent;
+  margin: 0 10px;
 }
 
 #custom-firefox, #battery, #network, #pulseaudio {
-font-size: 16px;
 }
 
 #custom-power {
-margin-top: 4px;
+  font-size: 20px;
 }
 
 #battery {
-margin-bottom: 4px;
 }
+
 #clock {
-  font-size: 18px;
-  color: #e5dfd3;
+  background-color: #3e4d55;
+  border: 5px solid rgba(18, 20, 32, 0.92);
+  color: #e6eaf2;
+  font-weight: 700;
+  padding: 0 5px;
 }
 
 #cpu {
-border-bottom: none;
-margin-bottom: -2px;
-box-shadow: inset 2px 0px 0px 0px #cccac2, inset -2px 2px 0px 0px #e5dfd3;
 }
 
 #memory {
-margin-top: -2px;
-border-top: none;
-border-bottom: none;
-box-shadow: inset 2px 0px 0px 0px #cccac2, inset -2px 0px 0px 0px #e5dfd3;
 }
+
 #temperature {
-margin-top: -2px;
-border-top: none;
-box-shadow: inset 2px -2px 0px 0px #cccac2, inset -2px 0px 0px 0px #e5dfd3;
 }
 
 #pulseaudio.microphone {
-border-bottom: none;
-margin-top: 2px;
-margin-bottom: -2px;
-border: 1px solid #4a5353;
-border-bottom: none;
-box-shadow: inset 2px -2px 0px 0px #cccac2, inset -2px 2px 0px 0px #e5dfd3;
 }
 
 #pulseaudio {
-margin-top: -4px;
-border-top: none;
-box-shadow: inset 2px -2px 0px 0px #cccac2, inset -2px 0px 0px 0px #e5dfd3;
 }

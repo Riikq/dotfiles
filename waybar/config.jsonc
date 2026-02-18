@@ -3,19 +3,23 @@
     "layer": "bot", // Waybar at top layer
     "exclusive": true,
     "reload-on-style-change": true,
-    "position": "right", // Waybar position (top|bottom|left|right)
-    "height": 1080, // Waybar height (to be removed for auto height)
-    "width": 44, // Waybar width
+    "position": "top", // Waybar position (top|bottom|left|right)
+    "margin-top": 6,
+    "margin-bottom": 6,
+    "margin-left": 0,
+    "margin-right": 0,
+    "height": 6, // Waybar height (to be removed for auto height)
+    // "width": 1800, // Waybar width
     "spacing": 0, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": [
     	"custom/power",
       "mpd",
-      "sway/workspaces"
+      "sway/workspaces",
+      "sway/window"
     ],
     "modules-center": [
-      "clock#date",
-      "clock"
+      "clock",
     ],
     "modules-right": [
         "cpu",
@@ -59,12 +63,7 @@
     },
     "clock": {
     "interval": 60,
-    "format": "{:%H\n%M}",
-    "tooltip": false
-    },
-    "clock#date": {
-    "interval": 60,
-    "format": "{:%d}",
+    "format": "{:%d %H %M}",
     "tooltip": false
     },
     "cpu": {
@@ -109,7 +108,7 @@
         "format-source-muted": ""
     },
     "custom/power": {
-        "format" : "⏻",
+        "format" : "󰣇",
 		"tooltip": false,
 		"on-click": "wlogout"
     },
