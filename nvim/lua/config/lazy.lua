@@ -21,6 +21,9 @@ require("lazy").setup({
     -- import/override wit
     { import = "lazyvim.plugins.extras.lang.typescript" },
     { import = "lazyvim.plugins.extras.lang.clangd" },
+    { import = "lazyvim.plugins.extras.lang.rust" },
+    { import = "lazyvim.plugins.extras.formatting.prettier" },
+    { import = "lazyvim.plugins.extras.lang.tailwind" },
     { import = "plugins" },
   },
   defaults = {
@@ -32,7 +35,7 @@ require("lazy").setup({
     version = false, -- always use the latest git commit
     -- version = "*", -- try installing the latest stable version for plugins that support semver
   },
-  install = { colorscheme = { "tokyonight", "habamax" } },
+  install = { colorscheme = { "tokyonight", "habamax", "dawnfox" } },
   checker = {
     enabled = true, -- check for plugin updates periodically
     notify = false, -- notify on update

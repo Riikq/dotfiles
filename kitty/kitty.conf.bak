@@ -5,7 +5,12 @@ font_family      family="Hack"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
+font_size        11.0
 # END_KITTY_FONTS
+
+# wayland_enable_ime yes
+# background_opacity 0.90
+#  background_blur 6
 
 #: Fonts {{{
 
@@ -27,7 +32,7 @@ bold_italic_font auto
 #: <https://sw.kovidgoyal.net/kitty/kittens/choose-fonts/#font-spec-
 #: syntax>.
 
-# font_size 11.0
+#  font_size 11.0
 
 #: Font size (in pts).
 
@@ -2796,10 +2801,10 @@ bold_italic_font auto
 
 
 # BEGIN_KITTY_THEME
-# Catppuccin-Latte
+# Adapta Nokto Maia
 include current-theme.conf
 # END_KITTY_THEME
 # Added by Gogh
-include colors.conf
+#include colors.conf
 
-background_opacity 0.9
+background_opacity 1.0
